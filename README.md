@@ -7,7 +7,7 @@ Computed tomography images, combined with advanced segmentation software, enable
 ## Data description
 Supplementary figures and legends can be found [here](figures/). 
 
-Data source: [Lung Image Database Consortium-Image Database Resource Initiative (LIDC-IDRI)](https://www.cancerimagingarchive.net/collection/lidc-idri/)
+Lung CT data taken from [LIDC-IDRI](https://www.cancerimagingarchive.net/collection/lidc-idri/).
 
 Armato III, S. G. et al., (2015). Data From LIDC-IDRI [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
 
