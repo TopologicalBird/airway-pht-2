@@ -5,6 +5,9 @@ We move from the front of the patient, then on the right hand side, and to the b
 
 https://github.com/user-attachments/assets/e9a33209-9b2b-42a5-90e3-ebcd738360d6
 
+### Half airway
+Left airway is mirrored to the right to mask directional information.
+
 <table>
   <tr>
     <td>
