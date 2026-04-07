@@ -2,7 +2,7 @@
 ## Visualization of Projected Airways
 
 
-<video src="fullairwayprojections.mp4" width="400" controls></video>
+<video src="/figures/fullairwayprojections.mp4" width="400" controls></video>
 
 
 
