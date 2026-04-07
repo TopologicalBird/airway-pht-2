@@ -1,11 +1,5 @@
 # Supplementary Figures and Data
 ## Visualization of Projected Airways
 
-
-<video src="/figures/fullairwayprojections.mp4" width="400" controls></video>
-
-
-
-
-
+https://github.com/user-attachments/assets/e9a33209-9b2b-42a5-90e3-ebcd738360d6
 
