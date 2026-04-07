@@ -11,8 +11,10 @@ Data source: [Lung Image Database Consortium-Image Database Resource Initiative 
 
 Armato III, S. G. et al., (2015). Data From LIDC-IDRI [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
 
-Dataset 1: ID 2, 4, 9, 10, 15, 17, 19, 20, 25, 29, 32, 34, 36, 39, 48
+IDs used for our analysis are as follows:
 
-Dataset 2: ID 52, 56, 57, 65
+Dataset 1: 2, 4, 9, 10, 15, 17, 19, 20, 25, 29, 32, 34, 36, 39, 48
+
+Dataset 2: 52, 56, 57, 65
 
 All the data have slice thickness of 1.25mm.
