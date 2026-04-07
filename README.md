@@ -14,8 +14,8 @@ IDs used for our analysis are as follows:
 
 | Dataset   | IDs                          |
 |----------|------------------------------|
-| Dataset 1 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 |
-| Dataset 2 | 11, 12, 13, 14, 15           |
+| Dataset 1 | 2, 4, 9, 10, 15, 17, 19, 20, 25, 29, 32, 34, 36, 39, 48|
+| Dataset 2 | 52, 56, 57, 65|
 
 All the data have slice thickness of 1.25mm.
 
