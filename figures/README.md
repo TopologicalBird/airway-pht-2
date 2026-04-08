@@ -21,6 +21,17 @@ Left airway is mirrored to the right to mask directional information.
 
 ## PCA Plots
 ### Full airway with Projection PHT
+<table>
+  <tr>
+    <td>
+      <img width="989" height="1589" alt="proj_full" src="https://github.com/user-attachments/assets/fa746cf5-a054-41cc-8d75-323503410de4" />
+    </td>
+    <td>
+      <img width="989" height="1589" alt="direct_full" src="https://github.com/user-attachments/assets/c95cffd4-892d-408c-bb5c-62d2748e1d3d" />
+    </td>
+  </tr>
+</table>
+
 <img width="989" height="1589" alt="proj_full" src="https://github.com/user-attachments/assets/fa746cf5-a054-41cc-8d75-323503410de4" />
 
 ### Half airway with Projection PHT
