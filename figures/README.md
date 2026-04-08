@@ -46,5 +46,5 @@ Both Projection PHT and Direct PHT yield similar distributions with different ve
   </tr>
 </table>
 
-
+With Projection PHT, we can capture the difference between left and right airways. The separation is less clear in Direct PHT, but we can still see the existence of differences between right and left airways.
 
