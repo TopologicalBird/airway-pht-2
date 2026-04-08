@@ -32,6 +32,8 @@ Left airway is mirrored to the right to mask directional information.
   </tr>
 </table>
 
+Both Projection PHT and Direct PHT yield similar distributions with different vectorization parameters and segmentation methods. We quantitatively evaluated the similarity using RV coefficients. With both Projection PHT and Direct PHT, RV coefficients between the same segmentation methods were larger than 0.9, highlighting the robustness of our methods against parameter choice. RV coefficients between different segmentation methods were around 0.7. 
+
 ### Half airway with Projection PHT (left) and Direct PHT (right)
 <table>
   <tr>
