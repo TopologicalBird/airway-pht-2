@@ -48,5 +48,19 @@ Both Projection PHT and Direct PHT yield similar distributions with different ve
 
 With Projection PHT, we can capture the difference between left and right airways. The separation is less clear in Direct PHT, but we can still see the existence of differences between right and left airways.
 
-### Feature contribution analysis
+## Feature contribution analysis
 L/R separation of Seg1 airways using Projection PHT seems very clear. PC2 is the main component separating L/R. Here, we visualize the eigenvector corresponding to PC2.
+<table>
+  <tr>
+    <td>
+      <img width="530" height="393" alt="pc2-seg1" src="https://github.com/user-attachments/assets/0ba7f789-bbc6-413e-bd79-70b78c00d16c" />
+    </td>
+    <td>
+      <img width="538" height="393" alt="seg1-logreg" src="https://github.com/user-attachments/assets/b9628ca8-f24f-4b89-b466-c9964ed7489e" />
+    </td>
+    <td>
+      <img width="538" height="393" alt="seg2-logreg" src="https://github.com/user-attachments/assets/8ac0d4ce-ac68-4651-816a-e74e237f17e8" />
+    </td>
+  </tr>
+</table>
+
