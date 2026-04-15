@@ -24,7 +24,7 @@ Visualizations of the projected airways can be found [here](https://github.com/T
 
 Feature vectors extracted from these airways by Projection PHT and Direct PHT are stored in [feature_vectors](/feature_vectors). See main codes for how to use them.
 
-Projection PHT has two directions (projection and PHT directions), so we should clarify their orderings. Here, we are using the following order:
+Projection PHT has two directions (projection and PHT directions), so we should clarify their orderings in the feature vector. Here, we are using the following order:
 
 (proj_1,PHT_1),(proj_1,PHT_2),...,(proj_1,PHT_K),(proj_2,PHT_1),(proj_2,PHT_2),...,(proj_2,PHT_K),...,(proj_N,PHT_1),(proj_N,PHT_2),...,(proj_N,PHT_K).
 
