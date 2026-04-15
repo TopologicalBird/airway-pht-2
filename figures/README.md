@@ -39,7 +39,7 @@ Typically, Seg2 gives finer segmentation while Seg1 focuses on more central airw
   </tr>
 </table>
 
-There are some cases where Seg1 and Seg2 airways differ very much. In this example (patient ID; 56), the "hook" structure that characterizes left airway is hardly visible with Seg 1.
+There are some cases where Seg1 and Seg2 airways differ very much. In this example (patient ID: 56), the "hook" structure that characterizes left airway is hardly visible with Seg 1.
 
 <table>
   <tr>
