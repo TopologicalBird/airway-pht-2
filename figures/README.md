@@ -26,6 +26,8 @@ Right: Seg2 (medpseg)
 
 Patient ID: 19
 
+Typically, Seg2 gives finer segmentation while Seg1 focuses on more central airways.
+
 <table>
   <tr>
     <td>
