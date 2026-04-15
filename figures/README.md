@@ -39,6 +39,20 @@ Typically, Seg2 gives finer segmentation while Seg1 focuses on more central airw
   </tr>
 </table>
 
+There are some cases where Seg1 and Seg2 airways differ very much. In this example (patient ID; 56), the "hook" structure that characterizes left airway is hardly visible.
+
+<table>
+  <tr>
+    <td>
+      <img width="59" height="74" alt="rot_0_30_L" src="https://github.com/user-attachments/assets/29016e81-1669-4a90-a5a9-5751ceddfc32" />
+    </td>
+    <td>
+      <img width="70" height="116" alt="rot_0_30_L" src="https://github.com/user-attachments/assets/c5893686-7fe6-43ed-8487-3f40894b35af" />
+    </td>
+  </tr>
+</table>
+
+
 
 ## PCA Plots
 ### Full airway with Projection PHT (left) and Direct PHT (right)
