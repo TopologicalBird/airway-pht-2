@@ -2,7 +2,7 @@
 ## Data scale information
 
 <details>
-<summary>List of xyz resolutions (Click to view)</summary>
+<summary>List of $xyz$ resolutions (Click to view)</summary>
 
 | ID   | x, y, z (mm) |
 |------|--------------|
