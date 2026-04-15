@@ -19,6 +19,26 @@ Left airway is mirrored to the right to mask directional information.
   </tr>
 </table>
 
+### Differences between Seg1 and Seg2
+Left: Seg1 (3dslicer)
+
+Right: Seg2 (medpseg)
+
+Patient ID: 19
+
+<table>
+  <tr>
+    <td>
+      <img width="137" height="202" alt="rot_0_30" src="https://github.com/user-attachments/assets/f6f6b556-0125-47dc-941d-c18f4a6dacd8" />
+    </td>
+
+    <td>
+      <img width="171" height="251" alt="rot_0_30" src="https://github.com/user-attachments/assets/5b59466d-ed8a-4852-8139-fe7430506eff" />
+    </td>
+  </tr>
+</table>
+
+
 ## PCA Plots
 ### Full airway with Projection PHT (left) and Direct PHT (right)
 <table>
