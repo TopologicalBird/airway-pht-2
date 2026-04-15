@@ -1,7 +1,7 @@
 # Supplementary Figures and Data
 ## Data scale information
 
-| ID   | x, y, z                          |
+| ID   | x, y, z (mm)                         |
 |----------|------------------------------|
 | 2 | 0.682, 0.682, 1.25|
 | 4 | 0.822, 0.822, 1.25|
