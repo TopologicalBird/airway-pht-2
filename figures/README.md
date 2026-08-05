@@ -103,10 +103,10 @@ Both Projection PHT and Direct PHT yield similar distributions with different ve
 <table>
   <tr>
     <td>
-      <img width="989" height="790" alt="proj_half" src="https://github.com/user-attachments/assets/a77dafb7-4a2e-46a3-8f24-0bd35d14ec05" />
+      <img width="989" height="790" alt="proj_half" src="https://github.com/user-attachments/assets/5ce589ab-4edd-4fc5-8f54-b3ba2e8feab2" />
     </td>
     <td>
-      <img width="989" height="790" alt="direct_half" src="https://github.com/user-attachments/assets/ee767b5a-205b-4816-bafb-36859a5f6fe2" />
+      <img width="989" height="790" alt="direct_half" src="https://github.com/user-attachments/assets/ede28972-7bc9-47d2-8db2-aa5efe0e59c3" />
     </td>
   </tr>
 </table>
