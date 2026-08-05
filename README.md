@@ -13,6 +13,8 @@ With these results, we establish PHT as a robust tool for quantitative character
 ### [projectionPHT_analysis.ipynb](codes/projectionPHT_analysis.ipynb)
 ### [directPHT_analysis.ipynb](codes/directPHT_analysis.ipynb)
 
+Note: evaluation_github.ipynb file is the old version and will be removed. Please use the updated codes above.
+
 ## Supplementary Figures
 Supplementary figures and legends can be found [here](figures/). 
 
