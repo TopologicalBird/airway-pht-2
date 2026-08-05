@@ -10,8 +10,8 @@ We demonstrate that our PHT-based representations remain robust across different
 We further validate the proposed representation on left/right airway classification, a fundamental anatomical task that inherently requires the joint characterisation of the three key features. 
 With these results, we establish PHT as a robust tool for quantitative characterisation of airway morphology and provide a foundation for future studies that seek to leverage structural information in digital biomedicine applications.
 ## Main Codes
-### [projectionPHT.ipynb](codes/projectionPHT.ipynb)
-### [directPHT.ipynb](codes/directPHT.ipynb)
+### [projectionPHT_analysis.ipynb](codes/projectionPHT_analysis.ipynb)
+### [directPHT_analysis.ipynb](codes/directPHT_analysis.ipynb)
 
 ## Supplementary Figures
 Supplementary figures and legends can be found [here](figures/). 
