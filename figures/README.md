@@ -89,10 +89,10 @@ There are some cases where Seg1 and Seg2 airways differ very much. In this examp
 <table>
   <tr>
     <td>
-      <img width="989" height="1589" alt="proj_full" src="https://github.com/user-attachments/assets/715eb564-e40f-466b-b0a3-19cc01098e14" />
+      <img width="989" height="990" alt="proj_full" src="https://github.com/user-attachments/assets/715eb564-e40f-466b-b0a3-19cc01098e14" />
     </td>
     <td>
-      <img width="989" height="1589" alt="direct_full" src="https://github.com/user-attachments/assets/094563f0-ed46-418e-8bd2-258128149c06" />
+      <img width="989" height="990" alt="direct_full" src="https://github.com/user-attachments/assets/094563f0-ed46-418e-8bd2-258128149c06" />
     </td>
   </tr>
 </table>
