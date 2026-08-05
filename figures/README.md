@@ -139,10 +139,10 @@ Reasonably, all the three figures have similar patterns.
       <img width="530" height="456" alt="pc2-seg1" src="https://github.com/user-attachments/assets/49c708c4-55e6-4ff1-86ef-a969ef282425" />
     </td>
     <td>
-      <img width="538" height="456" alt="seg1-logreg" src="https://github.com/user-attachments/assets/69a40124-c52c-434a-9a21-d0c915e5a424" />
+      <img width="538" height="456" alt="seg1-logreg" src="https://github.com/user-attachments/assets/f969bc1e-d316-4c7c-8b91-a7e37b9f0f3d" />
     </td>
     <td>
-      <img width="538" height="456" alt="seg2-logreg" src="https://github.com/user-attachments/assets/be7c068a-cae6-47cc-9735-52c8fb6ed38b" />
+      <img width="538" height="456" alt="seg2-logreg" src="https://github.com/user-attachments/assets/7817f89c-44e3-469d-a4a7-6353a60529e4" />
     </td>
   </tr>
 </table>
