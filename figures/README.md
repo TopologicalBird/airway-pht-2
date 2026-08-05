@@ -147,4 +147,4 @@ Reasonably, all the three figures have similar patterns.
   </tr>
 </table>
 
-Same analysis for Direct PHT. Since they are 3D objects, we have prepared [HTML version visualization](figures/contributionanalysis3d.html)
+Same analysis for Direct PHT. Since they are 3D objects, we have prepared [HTML version visualization](contributionanalysis3d.html)
