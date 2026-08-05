@@ -1,7 +1,14 @@
 # Airway tree geometry characterised using topological data analysis
 This project is the continuation of [airway-pht](https://github.com/TopologicalBird/Airway_PHT) ([ERS conference abstract](https://doi.org/10.1183/13993003.congress-2025.PA4163)), with significantly expanded benchmarking and method comparisons.
 ## Abstract
-Computed tomography images, combined with advanced segmentation software, enable the reconstruction of three-dimensional airway structures. However, existing analysis frameworks are not designed to quantify airways in 3D ambient space, leaving the relationship between 3D airway morphology and biomedical features largely unexplored. To fill this research gap, we propose airway analysis frameworks based on topological data analysis, specifically, persistent homology transform, to comprehensively characterize multiscale and multidirectional 3D branching information. By testing our methods against multiple segmentation tools and parameter settings, we prove the robustness of our methods as well as their ability to reliably extract 3D anatomical information. Our proposed framework establishes a foundation for advanced 3D airway morphology analysis, facilitating new medical research into airway structure-function relationships.
+Airways exhibit complex branching structures inside the ambient 3D space with different branch lengths and various branching directions. 
+Capturing these three key features, i.e., three-dimensionality, multiscale, and multidirectionality, is essential for a comprehensive airway structural analysis.
+This leads to systematic quantitative analyses of airway structure and its association with downstream biological or computational tasks. 
+However, existing approaches typically focus on only one or two of these three features and therefore fail to provide a unified quantitative characterisation. 
+In this paper, we address this research gap by proposing frameworks based on topological data analysis, specifically, persistent homology transform (PHT).
+We demonstrate that our PHT-based representations remain robust across different parameter settings and airway segmentation methods. 
+We further validate the proposed representation on left/right airway classification, a fundamental anatomical task that inherently requires the joint characterisation of the three key features. 
+With these results, we establish PHT as a robust tool for quantitative characterisation of airway morphology and provide a foundation for future studies that seek to leverage structural information in digital biomedicine applications.
 ## Main Codes
 ### [evaluation_github.ipynb](codes/evaluation_github.ipynb)
 
