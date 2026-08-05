@@ -10,7 +10,8 @@ We demonstrate that our PHT-based representations remain robust across different
 We further validate the proposed representation on left/right airway classification, a fundamental anatomical task that inherently requires the joint characterisation of the three key features. 
 With these results, we establish PHT as a robust tool for quantitative characterisation of airway morphology and provide a foundation for future studies that seek to leverage structural information in digital biomedicine applications.
 ## Main Codes
-### [evaluation_github.ipynb](codes/evaluation_github.ipynb)
+### [projectionPHT.ipynb](codes/projectionPHT.ipynb)
+### [directPHT.ipynb](codes/directPHT.ipynb)
 
 ## Supplementary Figures
 Supplementary figures and legends can be found [here](figures/). 
@@ -28,8 +29,6 @@ IDs used for our analysis are as follows:
 All the data have slice thickness of 1.25mm.
 
 Visualizations of the projected airways can be found [here](https://github.com/TopologicalBird/airway-pht-2/tree/main/figures#visualization-of-projected-airways).
-
-Feature vectors extracted from these airways by Projection PHT and Direct PHT are stored in [feature_vectors](/feature_vectors). See main codes for how to use them.
 
 Projection PHT has two directions (projection and PHT directions), so we should clarify their orderings in the feature vector. Here, we are using the following order:
 
