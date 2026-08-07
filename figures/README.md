@@ -147,4 +147,18 @@ Reasonably, all the three figures have similar patterns.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img width="530" height="456" alt="pc2-seg1" src="https://github.com/user-attachments/assets/f2c1d8bc-0af8-4d7b-9b02-c320fbb0697e" />
+    </td>
+    <td>
+      <img width="538" height="456" alt="seg1-logreg" src="https://github.com/user-attachments/assets/41bd53ec-1ce1-4f4e-b231-f891a483471e" />
+    </td>
+    <td>
+      <img width="538" height="456" alt="seg2-logreg" src="https://github.com/user-attachments/assets/aac87e69-1306-4197-9776-1e4583561b36" />
+    </td>
+  </tr>
+</table>
+
 Same analysis for Direct PHT. Since they are 3D objects, we have prepared [HTML version visualization](contributionanalysis3d.html)
